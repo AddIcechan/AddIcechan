@@ -12,8 +12,7 @@
   <p><strong>Independent Developer · Apple Platforms · AI Builder</strong></p>
 
   <p>
-    把想法做出来，也把过程留下来。<br />
-    <sub>I make ideas tangible and keep a record of how they take shape.</sub>
+    I make ideas tangible and keep a record of how they take shape.
   </p>
 
   <p>
@@ -27,14 +26,14 @@
 
 ---
 
-### What I do
+### What I Do
 
 - 🍎 Build native experiences and developer tools for iOS and macOS.
 - 🧠 Explore practical AI workflows that turn rough ideas into working products.
 - 🌐 Ship small, focused open-source tools across Swift, Go, and the web.
-- ✍️ Write product decisions, and lessons learned while building.
+- ✍️ Write about product decisions and lessons learned while building.
 
-### Selected work
+### Selected Work
 
 <table>
   <tr>
