@@ -7,7 +7,7 @@
     />
   </a>
 
-  <h1>Hi, I'm ADDICE 👋</h1>
+  <h1>Hi, I'm Aben 👋</h1>
 
   <p><strong>Independent Developer · Apple Platforms · AI Builder</strong></p>
 
@@ -32,7 +32,7 @@
 - 🍎 Build native experiences and developer tools for iOS and macOS.
 - 🧠 Explore practical AI workflows that turn rough ideas into working products.
 - 🌐 Ship small, focused open-source tools across Swift, Go, and the web.
-- ✍️ Write about Swift, product decisions, and lessons learned while building.
+- ✍️ Write product decisions, and lessons learned while building.
 
 ### Selected work
 
