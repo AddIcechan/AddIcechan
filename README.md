@@ -1,13 +1,8 @@
 <div align="center">
   <a href="https://addicechan.github.io">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./image-dark.PNG" />
-      <source media="(prefers-color-scheme: light)" srcset="./image-light.PNG" />
-      <img
-        src="./image-light.PNG"
-        width="168"
-        alt="Illustration of ideas taking shape"
-      />
+      <source media="(prefers-color-scheme: dark)" srcset="./image-light.PNG" />
+      <source media="(prefers-color-scheme: light)" srcset="./image-dark.PNG" />
     </picture>
   </a>
 
