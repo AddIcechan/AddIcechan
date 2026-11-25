@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://addicechan.github.io">
     <img
-      src="https://raw.githubusercontent.com/AddIcechan/addicechan.github.io/master/public/illustrations/making.png"
+      src="./image.PNG"
       width="168"
       alt="Illustration of ideas taking shape"
     />
