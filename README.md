@@ -3,6 +3,11 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./image-light.PNG" />
       <source media="(prefers-color-scheme: light)" srcset="./image-dark.PNG" />
+      <img
+        src="./image-dark.PNG"
+        width="168"
+        alt="Illustration of ideas taking shape"
+      />
     </picture>
   </a>
 
