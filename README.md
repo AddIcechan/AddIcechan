@@ -1,10 +1,14 @@
 <div align="center">
   <a href="https://addicechan.github.io">
-    <img
-      src="./image.PNG"
-      width="168"
-      alt="Illustration of ideas taking shape"
-    />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./image-dark.PNG" />
+      <source media="(prefers-color-scheme: light)" srcset="./image-light.PNG" />
+      <img
+        src="./image-light.PNG"
+        width="168"
+        alt="Illustration of ideas taking shape"
+      />
+    </picture>
   </a>
 
   <h1>Hi, I'm ABen 👋😁</h1>
